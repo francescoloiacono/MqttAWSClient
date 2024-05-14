@@ -5,7 +5,7 @@ Remember to add the correct path of certificates!
 
 How To Use My Files:
 
-in order to use it, after changing the correct variables (i.e. certificate paths, endpoint, etc..)
+in order to use these, after changing the correct variables (i.e. certificate paths, endpoint, etc..)
 you have to start the subscription client (it runs until you press Ctrl + C or Cmd + C) and meanwhile it's running, execute publish.py
 
-This is only an example, if u stop and re-run the subscribe.py, you won't see the "old" datas
+This is only an example, if you stop and re-run the subscribe.py, you won't see the "old" datas
