@@ -4,7 +4,7 @@ import time as t
 import json
 
 
-ENDPOINT = "a37qfp0ijxund6-ats.iot.eu-central-1.amazonaws.com"
+ENDPOINT = "aaaaaaaaaaaaaa-ats.iot.eu-central-1.amazonaws.com"
 CLIENT_ID = "testpublish"
 PATH_TO_CERTIFICATE = "pathto-.crt"
 PATH_TO_PRIVATE_KEY = "pathto-private.key"
